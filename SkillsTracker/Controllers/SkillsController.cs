@@ -69,9 +69,9 @@ namespace SkillsTracker.Controllers
         {
             string html = "<h1>" + date + "</h1>" +
             "<ol>" +
-                "<li>" + "C#: " + Csharpskill + "</li>" +
-                "<li>" + "JavaScript: " + jsskill + "</li>" +
-                "<li>" + "Python: " + pythonskill + "</li>" +
+                "<li>C#: " + Csharpskill + "</li>" +
+                "<li>JavaScript: " + jsskill + "</li>" +
+                "<li>Python: " + pythonskill + "</li>" +
             "</ol>";
 
             return Content(html, "text/html");

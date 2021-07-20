@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanch\\Desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj": {}
+    "C:\\Users\\sanch\\desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanch\\Desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj": {
+    "C:\\Users\\sanch\\desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\Desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj",
+        "projectUniqueName": "C:\\Users\\sanch\\desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj",
         "projectName": "SkillsTracker",
-        "projectPath": "C:\\Users\\sanch\\Desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj",
+        "projectPath": "C:\\Users\\sanch\\desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\SkillsTracker.csproj",
         "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\Desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\obj\\",
+        "outputPath": "C:\\Users\\sanch\\desktop\\launchcode\\Unit2\\chapter9-10-13\\chapter10-Studio\\SkillsTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",

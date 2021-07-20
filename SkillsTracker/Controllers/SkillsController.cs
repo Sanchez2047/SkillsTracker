@@ -8,9 +8,21 @@ namespace SkillsTracker.Controllers
 {
     public class SkillsController : Controller
     {
+        [HttpPost]
+        [Route("/skills")]
         public IActionResult Index()
         {
-            return View();
+            string html = @"
+            <h1>Skills Tracker</h1>
+            <h2>Coding skills to learn</h2>
+            <ol>
+                <li>C#</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+            </ol>
+            ";
+
+            return Content(html, "text/html");
         }
     }
 }
